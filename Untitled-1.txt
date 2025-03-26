@@ -1,0 +1,12 @@
+import java.util.Scanner
+public class Main{
+	public static void main(String[] args){
+	Scanner input = new Scanner(System.in);
+	System.out.print("Give princple Amount");
+	int p = input.NextInt();
+	System.out.print("Give time Amount");
+	int t = input.NextInt();
+	System.out.print("Give rate Amount");
+	int r = input.NextInt();
+	input.close();}
+}

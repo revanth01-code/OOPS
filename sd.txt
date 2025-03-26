@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<table border="2px"><tr>
+<th colspan="4" align="center">personal details</th>
+</tr>
+<tr>
+<td style="width:110px">name</td>
+<td>
+<table border="1" bgcolor="white">
+<tr>
+<td>first name</td>
+<td>srinesh</td>
+</tr>
+<tr>
+<td>last name</td>
+<td> reddy</td>
+</tr>
+</table>
+<td rowspan="2">
+<img src="https://inspiredtees.in/cdn/shop/files/14_47b4ca7f-a35e-4546-ae23-9cb7924d0e58.jpg?v=1725700887&width=533" alt="T-Shirt"></td>
+<td rowspan="3"><a href="mailto:maneshjetti112@gmail.com"> click on</a>
+</td>
+</tr>
+<tr>
+<td>qualification</td>
+<td>
+<ul>
+<li>10th marks:MG</li>
+<li>inter marks:HII</li></ul>
+</td>
+</tr>
+<tr>
+<td>communication address</td>
+<td>
+<table border="2" bgcolor="white">
+<tr>
+<td>hn.no12231   ferf </td></tr>
+<tr><td>sai nagar ,jn.colony  </td></tr>
+<tr><td>markapur ,MRKP  </td></tr>
+<tr><td>prakasham   </td></tr>
+</table>
+</td>
+<td><img src="https://www.rubberstampwarehouse.com/images/products/signature-stamps/signature-stamp-small.jpg"</td>
+</body>
+</html>

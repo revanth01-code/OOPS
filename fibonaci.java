@@ -1,0 +1,18 @@
+import java.util.Scanner;
+public class fibonaci{
+public static void main(String[] args){
+Scanner input = new Scanner(System.in);
+System.out.println("Enter a number");
+int n = input.nextInt();
+int f1 = 0;
+int f2 = 1;
+System.out.print(f1);
+System.out.print(f2);
+for(int i=3 ; i<=n;++i){
+int f3 = f1+f2;
+f1 = f2;
+f2 = f3;
+System.out.print(f3);
+}
+}
+}
